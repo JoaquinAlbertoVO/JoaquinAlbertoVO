@@ -1,21 +1,17 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h1 align="center">Hi 👋, I'm Joaquin Villalobos</h1>
+<h3 align="center">Systems Engineering Student | IT, Databases, Networking & Cybersecurity Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
-
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **Web development | OOC**
-
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+- 🌱 I'm currently learning **PHP | TypeScript | Angular**
+- 🧑‍🎓 I'm an Undergraduate at **Universidad Privada del Norte (UPN)**
+- 💬 Ask me about **Web Development | SQL Databases | Networking | Cybersecurity | C#**
+- 📫 How to reach me **joaquinvillalobos110@gmail.com**
+- ⚡ Fun fact **Passionate about cybersecurity and breaking things to understand how they work**
 
 </td>
 <td width="50%" align="center">
